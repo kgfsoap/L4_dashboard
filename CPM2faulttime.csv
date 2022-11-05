@@ -1,0 +1,24 @@
+DateAndTime            ,Date            ,Time        ,fault_time                              ,Val                     
+-----------------------,----------------,------------,----------------------------------------,------------------------
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Pusher_mechenical_overload_time    ,                  1293.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Incomplete_layer_at_pickup_time    ,                   633.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Safety_interlock_alarm_time        ,                   153.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Front_door_time                    ,                   109.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Emergency_press_time               ,                    44.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_PandP_position_zero_in_auto_time   ,                    39.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Case_pickup_vacuum_fault_time      ,                    20.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Incomming_conveyor1_trip_time      ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Incomming_conveyor2_trip_time      ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Arm_VFD_trip_time                  ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Carraige_VFD_trip_time             ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Exit_conveyor_trip_time            ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Low_CLD_time                       ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Low_air_pressure_time              ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Carriage_encoder_feedback_loss_time,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Arm_encoder_feedback_loss_time     ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Pusher_position_zero_in_auto_time  ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Pusher_index_malfunction_time      ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_PandP_index_malfunction_time       ,                     0.0
+2022-11-05 13:09:12.000,      2022-11-05,13:09:12    ,CPM2_Precol_index_malfunction_time      ,                     0.0
+
+(20 rows affected)

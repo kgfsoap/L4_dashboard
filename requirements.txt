@@ -1,0 +1,8 @@
+pandas
+enum
+streamlit
+random
+matplotlib.pyplot
+plotly.express
+plotly.graph
+time

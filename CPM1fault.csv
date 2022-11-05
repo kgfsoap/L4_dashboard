@@ -1,0 +1,24 @@
+DateAndTime            ,Date            ,Time        ,Fault_name                               ,Val                     
+-----------------------,----------------,------------,-----------------------------------------,------------------------
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_incomplete_layer_count             ,                    35.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_pusher_mech_overload_count         ,                    26.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_case_pickup_vacuum_out_count       ,                    15.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_safety_interlock_count             ,                     9.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_front_door_open_count              ,                     8.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_PandP_position_zero_in_auto_count   ,                     2.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_Emergency_press_count               ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_Incomng_conv2_trip_count           ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_Arm_VFD_trip_count                 ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_Carriage_VFD_trip_count            ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_exit_conv_trip_count               ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_Pusher_position_zero_in_auto_count  ,                     1.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_pusher_index_malfunction_count     ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_Incomng_conv1_trip_count           ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_low_air_pressure_count             ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM_1_arm_encoder_feedback_loss_count    ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_Low_CLD_trip_count                  ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_Carriage_encoder_feedback_loss_count,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_PandP_index_index_malfunction_count ,                     0.0
+2022-11-05 13:02:12.000,      2022-11-05,13:02:12    ,CPM1_Precol_index_malfunction_count      ,                     0.0
+
+(20 rows affected)
